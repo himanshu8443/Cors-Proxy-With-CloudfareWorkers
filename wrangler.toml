@@ -1,0 +1,6 @@
+name = "cors-proxy"
+
+main = "worker.js"
+workers_dev = true
+route = ""
+zone_id = ""
